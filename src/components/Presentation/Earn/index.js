@@ -5,7 +5,7 @@ function Earn() {
   return (
 
     <div className="container">
-      <h1>Earn & Quiz Sections</h1>
+      <h1>Earn and Quiz Sections</h1>
       <p>
         The Earn Money page is where users can go to test their knowledge and
         earn credits for even more ship purchases and cosmetics.

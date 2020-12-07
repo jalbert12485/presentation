@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function Play() {
+function Character() {
   return (
     <div className="container">
 
@@ -24,4 +24,4 @@ function Play() {
   );
 }
 
-export default Play;
+export default Character;

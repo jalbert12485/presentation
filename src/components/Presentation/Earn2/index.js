@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function Earn() {
+function Earn2() {
   return (
 
     <div className="container">
@@ -9,7 +9,7 @@ function Earn() {
       <h2>Future Development</h2>
       <ul>
         <li>Quiz Summary - Summary of Correct/Incorrect Answers at End</li>
-        <li>Incorporate Lazy-Loading & Default Loading Image</li>
+        <li>Incorporate Lazy-Loading and Default Loading Image</li>
         <li>
           Provide further resources for students and teachers for those hard
           questions. 🧐
@@ -21,4 +21,4 @@ function Earn() {
   );
 }
 
-export default Earn;
+export default Earn2;

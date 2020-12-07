@@ -1,13 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 import Presentation from "./components/Presentation";
 import Website from "./components/Website";
 import Navbar from "./components/Navbar";
 
-const style={
-  container:{
-      border: "3px solid #23d997"
-  }
-}
 
 
 function App() {
