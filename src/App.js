@@ -15,7 +15,7 @@ function App() {
 
 
     return (
-      <div className="container" >
+      <div className="container-fluid" >
         <Navbar />
 
         <div className="row">

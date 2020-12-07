@@ -1,10 +1,10 @@
 import React from "react";
 import "./style.css";
 
-function Presentation() {
+function Overview() {
   return (
     <div className="container">
-      <h1> Page 2</h1>
+      <h1> Overview</h1>
       <p> Explorer! is a MERN stack web game that is designed to take the user on an educational journey. Gain credits as rewards for answering correct quiz questions while transversing the universe. Purchase and upgrade ships throught your journey. </p>
       <h2> Walkthrough </h2>
       <ul>
@@ -17,4 +17,4 @@ function Presentation() {
   );
 }
 
-export default Presentation;
+export default Overview;
